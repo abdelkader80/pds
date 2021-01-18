@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "pds"
+  "defaultProject": "pds",
+  "cli": {
+    "analytics": false
+  }
 }
